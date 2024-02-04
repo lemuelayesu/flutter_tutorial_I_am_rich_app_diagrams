@@ -1,0 +1,1 @@
+# flutter_tutorial_I_am_rich_app_diagrams
